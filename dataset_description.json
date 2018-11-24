@@ -1,0 +1,18 @@
+{
+    "Authors": [
+        "Matt Cieslak",
+        "Mark Elliott",
+        "Ted Satterthwaite"
+    ],
+    "BIDSVersion": "1.0.1",
+    "DatasetDOI": "",
+    "Funding": [
+        ""
+    ],
+    "HowToAcknowledge": "in acknowledgement section",
+    "License": "CC-BY-SA",
+    "Name": "Example Fieldmaps",
+    "ReferencesAndLinks": [
+        "https://github.com/poldracklab/fmriprep/pull/1359"
+    ]
+}
