@@ -1,18 +1,19 @@
 {
+    "Name": "Example Fieldmaps",
+    "License": "CC-BY",
     "Authors": [
         "Matt Cieslak",
         "Mark Elliott",
         "Ted Satterthwaite"
     ],
-    "BIDSVersion": "1.0.1",
-    "DatasetDOI": "",
+    "Acknowledgements": "",
+    "HowToAcknowledge": "in acknowledgement section",
     "Funding": [
         ""
     ],
-    "HowToAcknowledge": "in acknowledgement section",
-    "License": "CC-BY-SA",
-    "Name": "Example Fieldmaps",
     "ReferencesAndLinks": [
         "https://github.com/poldracklab/fmriprep/pull/1359"
-    ]
+    ],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.1"
 }
